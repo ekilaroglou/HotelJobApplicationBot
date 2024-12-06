@@ -1,0 +1,12 @@
+{
+	"hotel_stars": [3, 4, 5],
+	"override_hotel_names": "False",
+	"override_hotel_websites": "False",
+	"override_hotel_emails": "False",
+	"protonmail_username": "Your ProtonMail Username",
+	"protonmail_password": "Your ProtonMail Password",
+	"gmail_username": "Your Gmail",
+	"gmail_app_password": "Your Gmail app Password",
+	"email_subject": "Job Application",
+	"email_method": "smtp"
+}
