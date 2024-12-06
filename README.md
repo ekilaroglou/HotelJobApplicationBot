@@ -86,4 +86,4 @@ The `config.json` file is where all the project settings are defined. Here is an
 
 - The project uses web scraping to gather hotel information, so make sure the relevant websites (Booking, DuckDuckGo, and the hotel websites) are accessible at the time of running.
 - Be cautious with the use of email credentials. Consider using environment variables or secret management tools to store sensitive information securely.
-- If using ProtonMail ensure you have the correct WebDriver installed for your browser.
+- **Ensure you have the correct WebDriver installed for your browser.**
