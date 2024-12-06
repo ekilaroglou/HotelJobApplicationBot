@@ -63,10 +63,7 @@ The `config.json` file is where all the project settings are defined. Here is an
 
 ## How to Run the Project
 
-1. **Install dependencies**: Ensure you have the necessary dependencies installed:
-    ```bash
-    pip install -r requirements.txt
-    ```
+1. **Requirements**: You'll just need selenium, pyautogui, the default python 3 libraries and a webdriver.
 
 2. **Update configuration**: Edit the `config.json` file with your personal information, including Gmail or ProtonMail credentials.
 
